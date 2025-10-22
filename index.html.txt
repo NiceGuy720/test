@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PoC by whitehathacker_bassel</title>
+</head>
+<body>
+    <h1>Proof of Concept</h1>
+    <p>This page confirms control over the domain.</p>
+    </body>
+</html>
